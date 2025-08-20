@@ -1,0 +1,20 @@
+{
+    "name": "complex",
+    "version": "1.0.0",
+    "description": "this is a library for c that allows users to use complex numbers in their code",
+    "author": "Atri Thakar",
+    "license": "MIT",
+    "keywords": [],
+    "main": "main.c",
+    "files": [
+        "main.c"
+    ],
+    "scripts": {
+        "test": "None"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "requires": []
+}
